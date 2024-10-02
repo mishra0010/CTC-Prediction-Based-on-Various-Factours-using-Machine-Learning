@@ -53,10 +53,4 @@ The model was evaluated using the R² score, and the performance was visualized 
 
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the sections based on your specific project details and any additional information you might want to include.
